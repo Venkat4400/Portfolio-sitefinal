@@ -25,8 +25,8 @@ const Contact = () => {
   };
 
   const contactInfo = [
-    { icon: Mail, text: "your.email@example.com", href: "mailto:your.email@example.com" },
-    { icon: Phone, text: "+91 12345 67890", href: "tel:+911234567890" },
+    { icon: Mail, text: "kotavenkat2004@gmail.com", href: "mailto:kotavenkat2004@gmail.com" },
+    { icon: Phone, text: "+91 97017 12613", href: "tel:+911234567890" },
     { icon: MapPin, text: "India", href: "#" }
   ];
 
@@ -172,3 +172,4 @@ const Contact = () => {
 };
 
 export default Contact;
+
