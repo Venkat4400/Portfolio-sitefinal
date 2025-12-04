@@ -5,7 +5,7 @@ const FloatingResumeButton = () => {
   const handleDownload = () => {
     // Create a temporary link element to trigger download
     const link = document.createElement('a');
-    link.href = '/resume.pdf'; // Place your resume.pdf in the public folder
+    link.href = 'ResumeFinal.pdf'; // Place your resume.pdf in the public folder
     link.download = 'Kota_Venkat_Resume.pdf';
     document.body.appendChild(link);
     link.click();
@@ -30,3 +30,4 @@ const FloatingResumeButton = () => {
 };
 
 export default FloatingResumeButton;
+
