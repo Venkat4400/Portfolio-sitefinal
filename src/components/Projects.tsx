@@ -22,7 +22,14 @@ const Projects = () => {
       github: "https://github.com/Venkat4400/skillbridge-react",
       demo: "https://venkat4400.github.io/skillbridge-react/"
     },
-   
+     {
+      title: "SkillBridge Platform",
+      description: "A comprehensive volunteer and opportunity platform connecting skilled professionals with meaningful projects and organizations.",
+      image: farmerCropImg,
+      tech: ["React", "Node.js", "MongoDB", "Express"],
+      github: "https://github.com/Venkat4400/skillbridge-react",
+      demo: "https://venkat4400.github.io/skillbridge-react/"
+    },
     {
       title: "Online Food Ordering App",
       description: "Full-stack food delivery application with real-time order tracking, menu management, and secure Authentication & Authorization integration  Dynamic Routing MANU  CART functionality.",
@@ -140,6 +147,7 @@ const Projects = () => {
 };
 
 export default Projects;
+
 
 
 
