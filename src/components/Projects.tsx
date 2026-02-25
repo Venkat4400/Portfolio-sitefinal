@@ -29,6 +29,14 @@ const Projects = () => {
       demo: "https://venkat4400.github.io/Online-Food-Ordering-App/"
     },
     {
+      title: "Online Food Ordering App",
+      description: "Full-stack food delivery application with real-time order tracking, menu management, and secure payment integration.",
+      image: foodOrderingImg,
+      tech: ["React", "Node.js", "MongoDB", "Express"],
+      github: "https://github.com/Venkat4400/Online-Food-Ordering-App",
+      demo: "https://venkat4400.github.io/Online-Food-Ordering-App/"
+    },
+    {
       title: "Flipkart Clone",
       description: "E-commerce platform clone with product catalog, shopping cart, category filters, and responsive design.",
       image: flipkartImg,
@@ -137,3 +145,4 @@ const Projects = () => {
 };
 
 export default Projects;
+
