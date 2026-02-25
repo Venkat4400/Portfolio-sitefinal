@@ -31,6 +31,14 @@ const Projects = () => {
       demo: "https://farmercropprediction.vercel.app/"
     },
     {
+      title: "Blood Donation App ",
+      description: "Blood Donate App Real-time Blood Donation Platform A clean, modern full-stack web app that instantly connects blood donors with recipients across India. Built with latest technologies to solve critical blood shortage problems with speed and simplicity. Tech StackReact • TypeScript • Vite • Tailwind CSS • shadcn/ui • Supabase (Auth + PostgreSQL + Realtime)Key Features",
+      image: bloodDonationImg,
+      tech: ["React", "Node.js", "Tailwind CSS ", "Google Maps API", "Authentication & Authorization", "Supabase"],
+      github: "https://github.com/Venkat4400/Blood-Donate-App-clean",
+      demo: "https://venkat4400.github.io/Online-Food-Ordering-App/"
+    },
+    {
       title: "Online Food Ordering App",
       description: "Full-stack food delivery application with real-time order tracking, menu management, and secure Authentication & Authorization integration  Dynamic Routing MANU  CART functionality.",
       image: foodOrderingImg,
@@ -147,6 +155,7 @@ const Projects = () => {
 };
 
 export default Projects;
+
 
 
 
