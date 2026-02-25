@@ -17,7 +17,7 @@ const Projects = () => {
     {
       title: "SkillBridge Platform",
       description: "A comprehensive volunteer and opportunity platform connecting skilled professionals with meaningful projects and organizations.",
-      image: SkinCancerImg,
+      image: skillBridgeImg,
       tech: ["React", "Node.js", "MongoDB", "Express"],
       github: "https://github.com/Venkat4400/skillbridge-react",
       demo: "https://venkat4400.github.io/skillbridge-react/"
@@ -140,6 +140,7 @@ const Projects = () => {
 };
 
 export default Projects;
+
 
 
 
