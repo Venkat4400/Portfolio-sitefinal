@@ -23,12 +23,12 @@ const Projects = () => {
       demo: "https://venkat4400.github.io/skillbridge-react/"
     },
      {
-      title: "SkillBridge Platform",
-      description: "A comprehensive volunteer and opportunity platform connecting skilled professionals with meaningful projects and organizations.",
+      title: "Farmer Crop Prediction is an AI-powered agriculture App",
+      description: "Farmer Crop Prediction is an AI-powered agriculture platform that helps farmers predict crop yield, analyze soil and weather data, and receive smart crop and fertilizer recommendations. It supports better decisions through data-driven farming insights .Based on proves year data and ML.",
       image: farmerCropImg,
-      tech: ["React", "Node.js", "MongoDB", "Express"],
-      github: "https://github.com/Venkat4400/skillbridge-react",
-      demo: "https://venkat4400.github.io/skillbridge-react/"
+      tech: ["React", "Node.js", "SQL", "Express", "Typescript", "python", "DATA sets", "WeAther API's", "ML"],
+      github: "https://github.com/Venkat4400/Farm-crop-yield-prediction-",
+      demo: "https://farmercropprediction.vercel.app/"
     },
     {
       title: "Online Food Ordering App",
@@ -147,6 +147,7 @@ const Projects = () => {
 };
 
 export default Projects;
+
 
 
 
