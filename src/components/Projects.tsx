@@ -9,9 +9,7 @@ import flappyBirdImg from "@/assets/images/flappy-bird-project.png";
 import candyCrushImg from "@/assets/images/candy-crush-project.png";
 import ticTacToeImg from "@/assets/images/tictactoe-project.png";
 import calculatorImg from "@/assets/images/calculator-project.png";
-import FARMERImg from "@/assets/images/FARMERCrop.png";
-import BlooddonImg from "@/assets/images/BlooDDonation.png";
-import SkinCancerImg from "@/assets/images/Skin.png";
+
 
 
 const Projects = () => {
@@ -24,22 +22,7 @@ const Projects = () => {
       github: "https://github.com/Venkat4400/skillbridge-react",
       demo: "https://venkat4400.github.io/skillbridge-react/"
     },
-    {
-      title: "Farmer Crop Prediction is an AI-powered agriculture App",
-      description: "Farmer Crop Prediction is an AI-powered agriculture platform that helps farmers predict crop yield, analyze soil and weather data, and receive smart crop and fertilizer recommendations. It supports better decisions through data-driven farming insights .Based on proves year data and ML",
-      image: FARMERImg,
-      tech: ["React", "Node.js", "SQL", "Express", "Typescript", "python", "DATA sets", "WeAther API's", "ML"],
-      github: "https://github.com/Venkat4400/Farm-crop-yield-prediction-",
-      demo: "https://farmercropprediction.vercel.app/"
-    },
-   {
-      title: "Blood Donation App",
-      description: "Blood Donate App Real-time Blood Donation Platform A clean, modern full-stack web app that instantly connects blood donors with recipients across India. Built with latest technologies to solve critical blood shortage problems with speed and simplicity. Tech StackReact • TypeScript • Vite • Tailwind CSS • shadcn/ui • Supabase (Auth + PostgreSQL + Realtime)Key Features",
-      image: BlooddonImg,
-      tech: ["React", "Node.js", "Tailwind CSS ", "Google Maps API", "Authentication & Authorization", "Supabase"],
-      github: "https://github.com/Venkat4400/Blood-Donate-App-clean",
-      demo: "https://venkat4400.github.io/Online-Food-Ordering-App/"
-    },
+   
     {
       title: "Online Food Ordering App",
       description: "Full-stack food delivery application with real-time order tracking, menu management, and secure Authentication & Authorization integration  Dynamic Routing MANU  CART functionality.",
@@ -47,14 +30,6 @@ const Projects = () => {
       tech: ["React", "Node.js", "sql", "Tailwind CSS", "Authentication & AuthorizationExpress"],
       github: "https://github.com/Venkat4400/food-ordering-app-2.0",
       demo: "https://food-ordering-app-20.vercel.app/"
-    },
-    {
-      title: "Skin-cancer-Detection using ML",
-      description: "AI Dermatology Screening & Risk Assessment Deep Learning Powered Skin Lesion Analyzer An intelligent web-based AI tool for early skin cancer screening and dermatology risk evaluation. Built with Flask backend and EfficientNetV2 model, trained on the HAM10000 dataset (10,000+ clinical images). Delivers high-accuracy lesion classification with calibrated confidence scores and a clear 6-stage risk assessment for fast, trustworthy, and interpretable results.",
-      image: SkinCancerImg,
-      tech: ["React", "JavaScript", "CSS", "API Integration"],
-      github: "https://github.com/Venkat4400/Skin-cancer-Detection-",
-      demo: "https://github.com/Venkat4400/Skin-cancer-Detection-"
     },
     {
       title: "Flipkart Clone",
@@ -165,6 +140,7 @@ const Projects = () => {
 };
 
 export default Projects;
+
 
 
 
