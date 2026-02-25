@@ -16,7 +16,7 @@ const Projects = () => {
   const projects = [
     {
       title: "SkillBridge Platform",
-      description: "A comprehensive volunteer and opportunity platform connecting skilled professionals with meaningful projects and organizations.",
+      description: "Skill Bridge is a full-stack web application built using the React.js framework Typescript and node.js SQL. It connects volunteers with NGOs for opportunities. The platform supports user authentication, opportunity management, application tracking, Resume Scanner, Mock Interview to improve confidence and skills and Study plane voice Based.",
       image: skillBridgeImg,
       tech: ["React", "Node.js", "MongoDB", "Express"],
       github: "https://github.com/Venkat4400/skillbridge-react",
@@ -155,6 +155,7 @@ const Projects = () => {
 };
 
 export default Projects;
+
 
 
 
