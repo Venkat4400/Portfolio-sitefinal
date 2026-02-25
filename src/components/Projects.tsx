@@ -12,6 +12,7 @@ import farmerCropImg from "@/assets/images/FARMERCrop-project.png";
 import bloodDonationImg from "@/assets/images/BloodDonAtion-project.png";
 import foodOrderingImg from "@/assets/images/food-ordering-project.png";
 import skinCancerImg from  "@/assets/images/Skin-project.png";
+
 const Projects = () => {
   const projects = [
     {
@@ -46,6 +47,15 @@ const Projects = () => {
       github: "https://github.com/Venkat4400/food-ordering-app-2.0",
       demo: "https://food-ordering-app-20.vercel.app/"
     },
+        {
+      title: "Skin-cancer-Detection using ML",
+      description: "AI Dermatology Screening & Risk Assessment Deep Learning Powered Skin Lesion Analyzer An intelligent web-based AI tool for early skin cancer screening and dermatology risk evaluation. Built with Flask backend and EfficientNetV2 model, trained on the HAM10000 dataset (10,000+ clinical images). Delivers high-accuracy lesion classification with calibrated confidence scores and a clear 6-stage risk assessment for fast, trustworthy, and interpretable results.",
+      image:  skinCancerImg,
+      tech: ["React", "Node.js", "sql", "Tailwind CSS", "Authentication & AuthorizationExpress"],
+      github: "https://github.com/Venkat4400/food-ordering-app-2.0",
+      demo: "https://food-ordering-app-20.vercel.app/"
+    },
+
     {
       title: "Flipkart Clone",
       description: "E-commerce platform clone with product catalog, shopping cart, category filters, and responsive design.",
@@ -155,6 +165,7 @@ const Projects = () => {
 };
 
 export default Projects;
+
 
 
 
