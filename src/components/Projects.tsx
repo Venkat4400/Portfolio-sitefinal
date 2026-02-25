@@ -11,7 +11,7 @@ import calculatorImg from "@/assets/images/calculator-project.png";
 import farmerCropImg from "@/assets/images/FARMERCrop-project.png";
 import bloodDonationImg from "@/assets/images/BloodDonAtion-project.png";
 import foodOrderingImg from "@/assets/images/food-ordering-project.png";
-
+import skinCancerImg from  "@/assets/images/Skin-project.png";
 const Projects = () => {
   const projects = [
     {
@@ -155,6 +155,7 @@ const Projects = () => {
 };
 
 export default Projects;
+
 
 
 
