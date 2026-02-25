@@ -21,7 +21,7 @@ const Projects = () => {
       demo: "https://venkat4400.github.io/skillbridge-react/"
     },
     {
-      title: "Online Food Ordering App",
+      title: "Famer Crop Yeildated Prediction",
       description: "Full-stack food delivery application with real-time order tracking, menu management, and secure payment integration.",
       image: foodOrderingImg,
       tech: ["React", "Node.js", "MongoDB", "Express"],
@@ -145,4 +145,5 @@ const Projects = () => {
 };
 
 export default Projects;
+
 
