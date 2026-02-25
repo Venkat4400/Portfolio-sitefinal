@@ -9,7 +9,7 @@ import flappyBirdImg from "@/assets/images/flappy-bird-project.png";
 import candyCrushImg from "@/assets/images/candy-crush-project.png";
 import ticTacToeImg from "@/assets/images/tictactoe-project.png";
 import calculatorImg from "@/assets/images/calculator-project.png";
-import FarmerCropImg from "@/assets/images/FARMERCrop-project.png";
+import farmerCropImg from "@/assets/images/FARMERCrop-project.png";
 
 
 const Projects = () => {
@@ -140,6 +140,7 @@ const Projects = () => {
 };
 
 export default Projects;
+
 
 
 
