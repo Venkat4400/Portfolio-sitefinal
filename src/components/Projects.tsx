@@ -2,7 +2,6 @@ import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { ExternalLink, Github } from "lucide-react";
 import skillBridgeImg from "@/assets/images/skillbridge-project.png";
-import foodOrderingImg from "@/assets/images/food-ordering-project.png";
 import flipkartImg from "@/assets/images/flipkart-project.png";
 import weatherImg from "@/assets/images/weather-project.png";
 import flappyBirdImg from "@/assets/images/flappy-bird-project.png";
@@ -12,6 +11,7 @@ import calculatorImg from "@/assets/images/calculator-project.png";
 import farmerCropImg from "@/assets/images/FARMERCrop-project.png";
 import bloodDonationImg from "@/assets/images/BloodDonAtion-project.png";
 import foodOrderingImg from "@/assets/images/food-ordering-project.png";
+
 const Projects = () => {
   const projects = [
     {
@@ -155,6 +155,7 @@ const Projects = () => {
 };
 
 export default Projects;
+
 
 
 
