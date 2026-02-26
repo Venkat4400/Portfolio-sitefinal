@@ -8,7 +8,7 @@ import fullstackCertificate from "@/assets/images/fullstack-certificate.png";
 import trainingCertificate from "@/assets/images/training-certificate.png";
 import internshipCertificate from "@/assets/images/internship-certificate.png";
 import javaCertificate from "@/assets/images/java-certificate.jpg";
-
+import infosysCertificate from "@/assets/images/Infosys.png";
 
 const Certifications = () => {
   const certifications = [
@@ -132,4 +132,5 @@ const Certifications = () => {
 };
 
 export default Certifications;
+
 
