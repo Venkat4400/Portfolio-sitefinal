@@ -74,14 +74,14 @@ const Certifications = () => {
       image: javaCertificate,
       year: "2025",
       linkedInUrl: "https://heytopper.graphy.com/verify-certificate?serialno=URCF8LUX"
-    }
+    },
     {
       title: "Skil Bridge App {Internship}",
       issuer: "Infosys Springboard",
       image: infosysCertificate,
       year: "2025",
       linkedInUrl: "https://verify.onwingspan.com/"
-    },
+    }
   ];
 
   return (
@@ -139,6 +139,7 @@ const Certifications = () => {
 };
 
 export default Certifications;
+
 
 
 
