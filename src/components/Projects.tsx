@@ -19,7 +19,7 @@ const Projects = () => {
       title: "SkillBridge Platform",
       description: "Skill Bridge is a full-stack web application built using the React.js framework Typescript and node.js SQL. It connects volunteers with NGOs for opportunities. The platform supports user authentication, opportunity management, application tracking, Resume Scanner, Mock Interview to improve confidence and skills and Study plane voice Based.",
       image: skillBridgeImg,
-      tech: ["React", "Node.js", "MongoDB", "Express"],
+      tech: ["React", "Node.js", "supabase", "Express","CSS","JavaScript","HTML"],
       github: "ttps://github.com/Venkat4400/skillbridge-app",
       demo: "https://skillbridge-app-two.vercel.app/"
     },
@@ -165,6 +165,7 @@ const Projects = () => {
 };
 
 export default Projects;
+
 
 
 
