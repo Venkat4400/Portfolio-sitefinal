@@ -20,16 +20,16 @@ const Projects = () => {
       description: "Skill Bridge is a full-stack web application built using the React.js framework Typescript and node.js SQL. It connects volunteers with NGOs for opportunities. The platform supports user authentication, opportunity management, application tracking, Resume Scanner, Mock Interview to improve confidence and skills and Study plane voice Based.",
       image: skillBridgeImg,
       tech: ["React", "Node.js", "supabase", "Express","CSS","JavaScript","HTML"],
-      github: "ttps://github.com/Venkat4400/skillbridge-app",
-      demo: "https://skillbridge-app-two.vercel.app/"
+      github: "https://github.com/Venkat4400/SkilBridge-2.0",
+      demo: "https://skilbridge-20.vercel.app/"
     },
      {
       title: "Farmer Crop Prediction is an AI-powered agriculture App",
       description: "Farmer Crop Prediction is an AI-powered agriculture platform that helps farmers predict crop yield, analyze soil and weather data, and receive smart crop and fertilizer recommendations. It supports better decisions through data-driven farming insights .Based on proves year data and ML.",
       image: farmerCropImg,
       tech: ["React", "Node.js", "SQL", "Express", "Typescript", "python", "DATA sets", "WeAther API's", "ML"],
-      github: "https://github.com/Venkat4400/Farm-crop-yield-prediction-",
-      demo: "https://farmercropprediction.vercel.app/"
+      github: "https://github.com/Venkat4400/Farmer-Crop-Yield-Prediction",
+      demo: "https://newfcp.vercel.app/"
     },
     {
       title: "Blood Donation App ",
@@ -165,6 +165,7 @@ const Projects = () => {
 };
 
 export default Projects;
+
 
 
 
